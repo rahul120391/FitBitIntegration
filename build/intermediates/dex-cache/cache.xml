@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="D:\CallBack\FitBit\app\build\intermediates\pre-dexed\debug\classes-fd1506c6cca0538c5ca01c49eae89c84fb30be75.jar"
+        jar="D:\CallBack\FitBit\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6"/>
+    <item
+        dex="D:\CallBack\FitBit\app\build\intermediates\pre-dexed\debug\signpost-commonshttp4-1.2.1.1-64219d064ed34d178bc5fb7e508118b5f0f2adc5.jar"
+        jar="D:\CallBack\FitBit\app\libs\signpost-commonshttp4-1.2.1.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1e6380adcb5808bfe13a934a2f35bfeed1adbc49"/>
+    <item
+        dex="D:\CallBack\FitBit\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-7866f3184d41226444bae96166cc29b8eb443100.jar"
+        jar="D:\CallBack\FitBit\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0"/>
+    <item
+        dex="D:\CallBack\FitBit\app\build\intermediates\pre-dexed\debug\signpost-jetty6-1.2.1.1-353d18523b24321f2285ad2617114077deb9161e.jar"
+        jar="D:\CallBack\FitBit\app\libs\signpost-jetty6-1.2.1.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="278d98035ed45da35eaeac7ebd22d5fc19374187"/>
+    <item
+        dex="D:\CallBack\FitBit\app\build\intermediates\pre-dexed\debug\signpost-core-1.2.1.1-65b94534332efbbf90b87a7503120a94e8ffa66b.jar"
+        jar="D:\CallBack\FitBit\app\libs\signpost-core-1.2.1.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="47d92007ca13efd47efad1af94d842ecb5066310"/>
+    <item
+        dex="D:\CallBack\FitBit\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-214b41811b79344e582e9b3a8f80fe51a7b096e7.jar"
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e"/>
+
+</pre-dex-items>
